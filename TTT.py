@@ -68,3 +68,4 @@ class TicTacToe():
 
 
 gameplay = Solver().solve((TicTacToe()))
+Solver().printAnalysis(TicTacToe(),10)
